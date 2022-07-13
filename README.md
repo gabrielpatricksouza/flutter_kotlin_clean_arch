@@ -7,6 +7,7 @@
 - Kotlin
 - Modular
 - Mobx
+- Injeção de Dependência 
 - Clean Architecture
 - Clean Code
 
